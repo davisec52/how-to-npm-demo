@@ -1,1 +1,2 @@
 # how-to-npm-demo
+This repo is unfinished due to what I assume by now are bugs in the Nodeschool module, how-to-npm. In an effort to circumvent the many errors I've encountered, I made three clean attempts at the module by deleting everything and starting over. I have also reviewed the error and bug reports as documented by FCC members, and I've consulted the FCC chat for Back End projects. In this final attempt, how-to-npm simply refused to publish the package. I don't see any point in pursuing this particular module further.
